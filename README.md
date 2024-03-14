@@ -36,5 +36,16 @@
 • source_type: an entry point a user first plays music on mobile apps. An entry point could
 be album, online-playlist, song .. etc.
 
-- ## ** Collborators**
--  
+## **Exploratory Data Analysis**
+- We have made use of 
+  ## Methods and models implemented
+  - We have made use of the item item collaborative filtering, k nearest neighbour algorithm and neural network for matrix factorization
+  - In item item collaborative filtering involves calculating similarities between and item with the items previously consumed by users and then reccomending the most similar ones with the taste of the user.
+  - K nearest neighbour algorithim is used to extract similar users form a group of users.
+  - We are creating 2 neural networks, one for linear relations and the other for complex relations and then merging them to find the most appropriate items.
+## Conclusions
+-Accuracy for K nearest neighbour algorithm is coming out to be 69%.
+## Collaborators
+-
+
+
